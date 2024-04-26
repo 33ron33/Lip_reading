@@ -17,7 +17,6 @@ First, clone the LiveLipNet-Duo repository to your local machine:
 
 ```bash
 git clone https://github.com/33ron33/Lip_reading.git
-cd LiveLipNet-Duo
 ```
 
 ## Create and Activate a Virtual Environment
