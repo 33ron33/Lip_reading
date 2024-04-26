@@ -6,7 +6,7 @@ LiveLipNet-Duo presents a novel approach in assistive technologies for overcomin
 
 ![LipNet Demo](demo.gif)
 
-
+![LipNet Demo](lip_movement.gif)
 # Setting Up the LiveLipNet-Duo Environment
 
 This guide will walk you through setting up the Python environment required to run the projects in the [Lip_reading repository](https://github.com/33ron33/LiveLipNet-Duo).
