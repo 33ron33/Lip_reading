@@ -16,7 +16,7 @@ Ensure you have Python installed on your system. You can download Python from [p
 First, clone the LiveLipNet-Duo repository to your local machine:
 
 ```bash
-git clone https://github.com/33ron33/LiveLipNet-Duo.git
+git clone https://github.com/33ron33/Lip_reading.git
 cd LiveLipNet-Duo
 ```
 
